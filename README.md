@@ -1,4 +1,4 @@
-# Bioeconomy Digital Repository System
+# ArkibX Repository System
 
 A self-hosted EPrints-style archive system using Dublin Core metadata.
 
