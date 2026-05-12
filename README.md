@@ -1,7 +1,7 @@
 # ArkibX Repository System
 
 A self-hosted EPrints-style archive system using Dublin Core metadata.
-### You can change the name of the repository. This is just a system that i used.
+### You can change the name of the repository. This is just a system that i used. You can custom the UI using css.
 
 ## Features
 
