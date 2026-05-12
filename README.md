@@ -71,7 +71,7 @@ archive.yourcompany.com -> your_server_ip
 Create host Nginx config:
 
 ```bash
-sudo nano /etc/nginx/sites-available/bioarchive
+sudo nano /etc/nginx/sites-available/[your-archive]
 ```
 
 ```nginx
@@ -92,7 +92,7 @@ server {
 Enable:
 
 ```bash
-sudo ln -s /etc/nginx/sites-available/bioarchive /etc/nginx/sites-enabled/
+sudo ln -s /etc/nginx/sites-available/[your-archive] /etc/nginx/sites-enabled/
 sudo nginx -t
 sudo systemctl reload nginx
 sudo certbot --nginx -d archive.yourcompany.com
