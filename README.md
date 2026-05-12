@@ -2,6 +2,7 @@
 
 A self-hosted EPrints-style archive system using Dublin Core metadata.
 ###### You can change the name of the repository. This is just a system that i used. You can custom the UI using css.
+###### For demo, you can login using username : admin@arkibx.com  password : Admin123!
 
 ## Features
 
